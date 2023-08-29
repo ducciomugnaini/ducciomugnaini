@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ducciomugnaini
 - 👀 I’m interested in programming, tennis and nature
-- 🌱 I’m currently learning AWS and Azure for fun
+- 🌱 I’m currently learning AWS, Azure and DevOps tools
 - 💞️ I’m looking to collaborate on serverless app development
 - 📫 How to reach me @[Linkedin](https://www.linkedin.com/in/ducciomugnaini/)
 
